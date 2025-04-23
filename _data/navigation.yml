@@ -54,4 +54,4 @@ header:
       # @start locale config
       en      : &EN       Test
       # @end locale config
-    url: /test.html
+    url: /test1.html
