@@ -1,5 +1,6 @@
 ---
 layout: article
+title: test file
 ---
 
 An h1 header
