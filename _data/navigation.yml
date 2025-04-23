@@ -50,6 +50,7 @@ header:
       tr      : &TR       Hakkında
       # @end locale config
     url: /about.html
+  
   - titles:
       # @start locale config
       en      : &EN       Test
