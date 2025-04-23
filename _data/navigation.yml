@@ -50,6 +50,3 @@ header:
       tr      : &TR       Hakkında
       # @end locale config
     url: /about.html
-  
-  - title: Archive2
-      url: /archive2.html
