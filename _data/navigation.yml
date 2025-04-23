@@ -51,8 +51,5 @@ header:
       # @end locale config
     url: /about.html
   
-  - titles:
-      # @start locale config
-      en      : &EN       Test
-      # @end locale config
-    url: /test1.html
+  - title: Test
+      url: /test1.html
